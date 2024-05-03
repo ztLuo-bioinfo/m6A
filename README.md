@@ -16,6 +16,7 @@ We have uploaded detailed information for all evaluation models to the `model_al
 * m6A-NeuralTool: [http://nsclbio.jbnu.ac.kr/tools/m6A-NeuralTool/](http://nsclbio.jbnu.ac.kr/tools/m6A-NeuralTool/)
 * MultiRM: [https://github.com/Tsedao/MultiRM](https://github.com/Tsedao/MultiRM)
 * iMethyl-Deep: [https://github.com/abdul-bioinfo/iMethyl-deep](https://github.com/abdul-bioinfo/iMethyl-deep)
+* m6AGE: [https://github.com/bokunoBike/m6AGE](https://github.com/bokunoBike/m6AGE)
 
 Interested researchers can evaluate the models by following the detailed instructions available on the official webserver/github of each model.
 
